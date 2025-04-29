@@ -8,9 +8,6 @@ import queue
 import threading
 import time
 import streamlit as st
-import warnings
-
-warnings.filterwarnings("ignore")
 
 st.title("🛒Go CART ")
 
